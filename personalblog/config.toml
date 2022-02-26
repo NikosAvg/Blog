@@ -1,0 +1,35 @@
+baseURL =  'https://nikosavg.github.io/'
+languageCode =  'en-us'
+title =  'Nikos Avgoustis Personal Blog'
+theme =  'anubis'
+enableRobotsTXT = "true"
+
+
+
+googleAnalytics = "G-JGMV3N6C4M"
+
+[author]
+name = "Nikos Avgoustis"
+
+[params]
+style = "dark-without-switcher"
+dateFormat = "02-01-2006"
+mail = "nik.avg@hotmail.com"
+author = "Nikos Avgoustis"
+
+[[params.social]]
+id = "github"
+name="NikosAvg"
+
+[[menu.main]]
+identifier = "portfolio"
+name = "Portfolio"
+url = "/portfolio/"
+weight = 1
+
+
+[[menu.main]]
+name = "Posts"
+identifier = "posts"
+url = "/posts/"
+weight = 2

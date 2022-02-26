@@ -1,0 +1,7 @@
+[submodule "personalblog/themes/anubis"]
+	path = personalblog/themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "personalblog/public"]
+	path = personalblog/public
+	url = https://github.com/NikosAvg/NikosAvg.github.io.git
+	branch = main
