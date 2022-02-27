@@ -1,6 +1,6 @@
 baseURL =  'https://nikosavg.github.io/'
 languageCode =  'en-us'
-title =  'Nikos Avgoustis Personal Blog'
+title =  'Nikos Avgoustis'
 theme =  'anubis'
 enableRobotsTXT = "true"
 
@@ -12,7 +12,7 @@ googleAnalytics = "G-JGMV3N6C4M"
 name = "Nikos Avgoustis"
 
 [params]
-style = "dark-without-switcher"
+style = "light-without-switcher"
 dateFormat = "02-01-2006"
 mail = "nik.avg@hotmail.com"
 author = "Nikos Avgoustis"
