@@ -3,6 +3,8 @@ languageCode =  'en-us'
 title =  'Nikos Avgoustis'
 theme =  'anubis'
 enableRobotsTXT = "true"
+paginate =  5
+
 
 
 
@@ -16,16 +18,25 @@ style = "light-without-switcher"
 dateFormat = "02-01-2006"
 mail = "nik.avg@hotmail.com"
 author = "Nikos Avgoustis"
+readNextPosts = 5  # show 5 related posts, 0 by default
+paginationSinglePost = "true"
 
 [[params.social]]
 id = "github"
 name="NikosAvg"
 
 [[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+
+[[menu.main]]
 identifier = "portfolio"
 name = "Portfolio"
 url = "/portfolio/"
-weight = 1
+weight = 3
 
 
 [[menu.main]]

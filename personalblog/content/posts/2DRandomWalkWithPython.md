@@ -64,6 +64,7 @@ plt.plot(y,x)
 plt.title('2D Random Walk')
 plt.xlabel('X-Axis Coordinate')
 plt.ylabel('Y-Axis Coordinate')
+plt.show()
 ```
 
 ![2DRandom Walk Image 1](/images/2Drandom_walk.png)

@@ -2,7 +2,7 @@
 title: "Random Walk in Python"
 date: 2022-02-26T08:49:40+02:00
 summary: "A simple example of how to generate a random walk in python."
-featured_image: "images/random_walk.png"
+featured_image: "/images/random_walk.png"
 tags: ["Random Walk", "Python", "Simulation"]
 ---
 
