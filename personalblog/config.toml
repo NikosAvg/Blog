@@ -6,8 +6,6 @@ enableRobotsTXT = "true"
 paginate =  5
 
 
-
-
 googleAnalytics = "G-JGMV3N6C4M"
 
 [author]
@@ -44,3 +42,6 @@ name = "Posts"
 identifier = "posts"
 url = "/posts/"
 weight = 2
+
+[markup.goldmark.renderer]
+unsafe = true

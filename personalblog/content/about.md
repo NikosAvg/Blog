@@ -4,7 +4,7 @@ description: "Section about the author of this blog Nikos Avgoustis."
 ---
 
 
-I'm a Mathematician / Computer Scientist interested in educating people about new technologies and methodologies in the field of machine learning and forecasting. I'm currently working as a teacher at [alfaedu](https://alfaedu.gr/).
+I'm a Mathematician/Computer Scientist interested in educating people about new technologies and methodologies in the field of machine learning and forecasting. I'm currently working as a teacher at [alfaedu](https://alfaedu.gr/).
 
 ## Work Experience
 
@@ -13,8 +13,8 @@ I'm a Mathematician / Computer Scientist interested in educating people about ne
 
 ## Other Projects
 
-1. Creating a [Medical Decision Support](https://medicaldss.herokuapp.com/) web application Predicting Lymphoma in Primary Sjogren’s Syndrome Patients.
-1. Creating the website for [alfaedu](https://alfaedu.gr/).
+1. A [Medical Decision Support](https://medicaldss.herokuapp.com/) web application Predicting Lymphoma in Primary Sjogren’s Syndrome Patients.
+1. Creator of the website for [alfaedu](https://alfaedu.gr/).
 
 ## Education
 
