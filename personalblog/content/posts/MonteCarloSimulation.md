@@ -1,7 +1,7 @@
 ---
-title: "Monte Carlo simulations with python"
+title: "Monte Carlo simulations with Python"
 date: 2022-03-01T11:09:57+02:00
-summary: "A Basic introduction to Monte Carlo simulations with python"
+summary: "A Basic introduction to Monte Carlo simulations with python."
 featured_image: "/images/montecarlo_bets_100.png"
 tags: ["MonteCarlo", "Python", "Simulation", "Probability","Statistics"]
 ---
@@ -111,7 +111,7 @@ plt.title("Histogram of our Final amounts")
 plt.show()
 ```
 
-![Monte Carlo Histogram](/images/montecarlohist.png)
+![Monte Carlo Histogram](/images/montecarlhist.png)
 
 Again, as we see in the histogram, our most common outcome is the 33% loss.
 
