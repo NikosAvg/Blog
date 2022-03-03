@@ -81,7 +81,7 @@ ax.set_zlabel('Cos(x)*Exp(y)')
 ax.view_init(40,40) 
 plt.show()
 ```
-To visualize our 2D function there are 2 ways. The classical 3D surface plot with axes (x,y,f(x,y)
+To visualize our 2D function there are 2 ways. The classical 3D surface plot with axes (x,y,f(x,y)).
 
 ![2d function plot](/images/func2d.png)
 
