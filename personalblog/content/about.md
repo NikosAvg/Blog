@@ -32,3 +32,5 @@ Springer, Cham](https://link.springer.com/chapter/10.1007/978-3-030-49190-1_16)
 1. [Avgoustis N., Exarchos T. (2021) A DSS for Predicting Lymphoma in Primary Sjogren’s Syndrome Patients. In: Vlamos P. (eds) GeNeDis 2020. Advances in Experimental Medicine and Biology, vol 1338. Springer, Cham. https://doi.org/10.1007/978-3-030-78775-2_2](https://link.springer.com/chapter/10.1007%2F978-3-030-78775-2_2)
 
 1. [Angelis I. et al. (2021) Mobile Application for Monitoring and Preventing Cognitive Decline Through Lifestyle Intervention. In: Vlamos P. (eds) GeNeDis 2020. Advances in Experimental Medicine and Biology, vol 1338. Springer, Cham. https://doi.org/10.1007/978-3-030-78775-2_11](https://link.springer.com/chapter/10.1007%2F978-3-030-78775-2_11)
+
+{{< donate >}}
